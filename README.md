@@ -30,9 +30,8 @@ arduino-learning-journey/
 ├── 01-bases/         # Variables, setup(), loop()
 ├── 02-conditions/    # If / else examples
 ├── 03-boucles/       # For / while loops
-├── 04-led-blink/     # First real project
-├── 05-capteurs/      # Sensors and actuators
-└── README.md         # This file
+├── 04-led-blink/     # First real project 
+└── 05-capteurs/      # Sensors and actuators
 
 ---
 
