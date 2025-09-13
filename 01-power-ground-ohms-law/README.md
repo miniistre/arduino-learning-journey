@@ -10,7 +10,7 @@
   - Resistance (R) is measured in **Ohms (Ω)** with an ohmmeter/multimeter.
   - Voltage (U) is measured in **Volts (V)** between two points with a voltmeter/multimeter.
   - Intensity (I) is measured in **Amperes (A)** (often **miliamps (mA)**).
-- **Ohm's Law**: \( U = R \times I \)
+- **Ohm's Law**: \( U = R * I \)
 - **LED basics**: LEDs are polarized (power only passes on one side).
   - **Anode (+)** = long leg (represent with an A on the diagram) → goes toward 5V (usually through a resistor).
   - **Cathode (-)** = short leg (represent with a K on the diagram) → goes to GND.
