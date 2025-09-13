@@ -7,11 +7,11 @@ I’m using it to document my progress and keep track of what I learn step by st
 ---
 
 ## Progress
-- [x] Step 1: Basics (setup, loop, variables)  
-- [ ] Step 2: Conditions and loops  
-- [ ] Step 3: First project – LED blink (simulation on Tinkercad)  
-- [ ] Step 4: Working with sensors  
-- [ ] Step 5: Final project (to be defined)  
+- [x] Step 1: Basics "Power, Ground & Ohm’s Law"  
+- [ ] Step 2: Arduino Fundamentals (setup, loop, digital outputs, first program Blink) 
+- [ ] Step 3: Digital Inputs, millis() & Interrupts  
+- [ ] Step 4: Serial Communication with PC  
+- [ ] Step 5: (to be defined)  
 
 ---
 
