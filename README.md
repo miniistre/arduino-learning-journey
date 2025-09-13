@@ -36,5 +36,6 @@ arduino-learning-journey/
 ---
 
 ## References
-- PDF *Arduino – Premiers pas en informatique embarquée*  
+- [Arduino – Premiers pas en informatique embarquée (PDF)](../arduino-premiers-pas-en-informatique-embarquee.pdf)  
+- [Arduino YouTube Playlist](https://youtube.com/playlist?list=PLNBsspAtBwlL7lw9HI50YE3WJKY5us-cn)  
 - CSC 101 (Python basics) → transition to C++ (CSC 111)  
